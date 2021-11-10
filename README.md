@@ -35,8 +35,6 @@ This is the place where I opensource stuff and break things 🤣
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="XCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 
 <br />
 <br />
@@ -45,9 +43,9 @@ This is the place where I opensource stuff and break things 🤣
 [![archroid's GitHub stats](https://github-readme-stats.vercel.app/api?username=archroid&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### 📕 Latest Blog posts:
+### 📕 Latest Project:
 <!-- BLOG-POST-LIST:START -->
-- [Creating an Impressive GitHub Profile README](https://medium.com/@mr.vibhorchaudhary/impressive-github-profile-readme-606e3b7b075d?source=rss-30c08688da0e------2)
+- [ElProfessor discord bot](https://github.com/archroid/ElProfessorBot)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: archroid.xyz
