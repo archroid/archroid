@@ -35,7 +35,7 @@ This is the place where I opensource stuff and break things 🤣
 <br />
 
 ### 📊 GitHub Stats:
-[![archroid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=archroid&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![archroid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=archroid&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 📕 Latest Project:
