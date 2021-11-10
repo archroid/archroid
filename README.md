@@ -14,21 +14,23 @@ This is the place where I opensource stuff and break things 🤣
 
 ### Connect with me:
 
-[<img align="left" alt="archroid.dev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="archroid | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="archroid.dev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="archroid | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="archroid.dev | Twitter" width="25px" src="./assets/twitter.png" />][twitter]
+[<img align="left" alt="archroid | GitHub" width="24px" src="./assets/github.png" />][github]
+[<img align="left" alt="archroid.dev | Instagram" width="23px" src="./assets/instagram.png" />][instagram]
+[<img align="left" alt="archroid | Telegram" width="25px" src="./assets/telegram.png" />][telegram]
 
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Android" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Android_robot_head.svg/1200px-Android_robot_head.svg.png" />
-<img align="left" alt="Golang" width="26px" src="https://files.virgool.io/upload/users/820/posts/iamu71api8o3/vv1dulxorpc1.png" />
-<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://mpng.subpng.com/20180326/gxq/kisspng-github-computer-icons-icon-design-github-5ab8a31e334e73.4114704215220498222102.jpg" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Android" width="32px" src="./assets/android.svg" />
+<img align="left" alt="Golang" width="32px" src="./assets/golang.png" />
+<img align="left" alt="Kotlin" width="32px" src="./assets/kotlin.png" />
+<img align="left" alt="Java" width="32px" src="./assets/java.png" />
+<img align="left" alt="Linux" width="32px" src="./assets/linux.png" />
+<img align="left" alt="ArchLinux" width="32px" src="./assets/archlinux.png" />
+<img align="left" alt="Git" width="32px" src="./assets/git.png" />
+<img align="left" alt="GitHub" width="32px" src="./assets/github.png" />
+<img align="left" alt="Terminal" width="32px" src="./assets/terminal.png" />
 
 <br />
 <br />
