@@ -23,8 +23,7 @@ This is the place where I opensource stuff and break things 🤣
 
 ### Languages and Tools:
 <img align="left" alt="Android" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Android_robot_head.svg/1200px-Android_robot_head.svg.png" />
-<img align="left" alt="Golang" width="26px" src="https://files.virgool.io/upload/users/820/posts/iamu71api8o3/vv1dulxorpc1.png
-" />
+<img align="left" alt="Golang" width="26px" src="https://files.virgool.io/upload/users/820/posts/iamu71api8o3/vv1dulxorpc1.png" />
 
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
