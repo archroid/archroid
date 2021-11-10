@@ -50,10 +50,8 @@ This is the place where I opensource stuff and break things 🤣
 - [Creating an Impressive GitHub Profile README](https://medium.com/@mr.vibhorchaudhary/impressive-github-profile-readme-606e3b7b075d?source=rss-30c08688da0e------2)
 <!-- BLOG-POST-LIST:END -->
 
-[website]: https://forum.xda-developers.com/m/vibhorchaudhary.5991465/
-[linkedin]: https://linkedin.com/in/vibhorchaudhary
-[instagram]: https://www.instagram.com/mr.vibhorchaudhary/
+[website]: archroid.xyz
+[instagram]: https://www.instagram.com/archroid.dev/
 [twitter]: https://twitter.com/vibhorchaudhry
-[facebook]: https://www.facebook.com/vibhorchaudhary
-[github]: https://github.com/vibhorchaudhary
-[telegram]: https://t.me/vibhorchaudhary
+[github]: https://github.com/archroid
+[telegram]: https://t.me/archroid
