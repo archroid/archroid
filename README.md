@@ -5,10 +5,10 @@
 -->
 ### Hi there, I'm archroid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-This is the place where I opensource stuff and break things 🤣
+This is the place where I opensource stuff and break things
 - 👦🏻 I'm 17 years old
-- 🔭 I’m currently working on something really cool 😉
-- 🌱 I’m currently learning Golang 🤣
+- 🔭 I’m currently working on something really cool
+- 🌱 I’m currently learning Golang
 - 👯 I’m looking to be a programmer doctor.
 - 📫 How to reach me: [@archroid][Telegram] or say 👋 on Email at [archroid.dev](mailto:archroid.dev@gmail.com)
 
