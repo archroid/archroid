@@ -6,15 +6,15 @@
 ### Hi there, I'm archroid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 This is the place where I opensource stuff and break things 🤣
-
+- 👦🏻 I'm 17 years old
 - 🔭 I’m currently working on something really cool 😉
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on more open source projects.
+- 🌱 I’m currently learning Golang 🤣
+- 👯 I’m looking to be a programmer doctor.
 - 📫 How to reach me: [@archroid][Telegram] or say 👋 on Email at [archroid.dev](mailto:archroid.dev@gmail.com)
 
 ### Connect with me:
 
-[<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="archroid.dev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="archroid | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="archroid.dev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="archroid | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
@@ -24,7 +24,6 @@ This is the place where I opensource stuff and break things 🤣
 ### Languages and Tools:
 <img align="left" alt="Android" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Android_robot_head.svg/1200px-Android_robot_head.svg.png" />
 <img align="left" alt="Golang" width="26px" src="https://files.virgool.io/upload/users/820/posts/iamu71api8o3/vv1dulxorpc1.png" />
-
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
