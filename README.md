@@ -10,7 +10,7 @@ This is the place where I opensource stuff and break things 🤣
 - 🔭 I’m currently working on something really cool 😉
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on more open source projects.
-- 📫 How to reach me: [@archroid][Telegram] or say 👋 on Email at [archroid.dev](archroid.dev@gmail.com)
+- 📫 How to reach me: [@archroid][Telegram] or say 👋 on Email at [archroid.dev](mailto:archroid.dev@gmail.com)
 
 ### Connect with me:
 
