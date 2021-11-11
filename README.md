@@ -35,9 +35,27 @@ This is the place where I opensource stuff and break things
 <br />
 <br />
 
-### 📊 GitHub Stats:
-[![archroid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=archroid&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub statistics
+  
+<p align="center">
+ <a href="#">
+   <img alt="archroid's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=archroid&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+ </a>
+</p>
+<br/>
+<a href="#">
+  <img alt="archroid's stats" src="https://github-readme-stats.vercel.app/api?username=archroid&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
+  <a href="#">
+    <img alt="archroid's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archroid&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+<br/>
+<b>Note:</b> Used languages on GitHub is not languagues most used when i'm coding.
 
+<br/>
+<br/>
+<a href="#">
+  <img alt="Gonz's activity" src="https://activity-graph.herokuapp.com/graph?username=gonzyui&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
+<br/>
+<br/>
 
 ### 📕 Latest Project:
 <!-- BLOG-POST-LIST:START -->
