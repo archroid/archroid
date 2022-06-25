@@ -9,7 +9,7 @@ This is the place where I opensource stuff and break things
 - I'm currently a part of [LibreTube team](https://github.com/libre-tube/LibreTube) and I'm studying for college entry exam.
 - How to reach me: [@archroid][Telegram] or say 👋 on Email at [archroid.dev](mailto:archroid.dev@gmail.com)
 
-### Connect with me:
+<!-- ### Connect with me:
 
 [<img align="left" alt="archroid.dev | Twitter" width="25px" src="./assets/twitter.png" />][twitter]
 [<img align="left" alt="archroid | GitHub" width="24px" src="./assets/github.png" />][github]
@@ -28,7 +28,7 @@ This is the place where I opensource stuff and break things
 <img align="left" alt="Git" width="32px" src="./assets/git.png" />
 <img align="left" alt="GitHub" width="32px" src="./assets/github.png" />
 <img align="left" alt="Terminal" width="32px" src="./assets/terminal.png" />
-
+ -->
 <br />
 <br />
 
