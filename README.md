@@ -56,7 +56,7 @@ This is the place where I opensource stuff and break things
 
 ### 📕 Latest Project:
 <!-- BLOG-POST-LIST:START -->
-- [ElProfessor discord bot](https://github.com/archroid/ElProfessorBot)
+- [LibreTube](https://github.com/libre-tube/LibreTube)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: archroid.xyz
