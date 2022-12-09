@@ -5,7 +5,7 @@
 ### Hi there, I'm archroid 
 
 This is the place where I opensource stuff and break things
-- I'm 17 years old
+- I'm 18 years old
 - I'm currently a part of [LibreTube team](https://github.com/libre-tube/LibreTube) and I'm studying for college entry exam.
 - How to reach me: [@archroid][Telegram] or say 👋 on Email at [archroid.dev](mailto:archroid.dev@gmail.com)
 
