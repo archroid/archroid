@@ -49,14 +49,13 @@ This is the place where I opensource stuff and break things
 
 <br/>
 <br/>
-<a href="#">
-  <img alt="archroid's activity" src="https://activity-graph.herokuapp.com/graph?username=archroid&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
+
 <br/>
 <br/>
 
 ### 📕 Latest Project:
 <!-- BLOG-POST-LIST:START -->
-- [LibreTube](https://github.com/libre-tube/LibreTube)
+- [HomeServe](https://github.com/archroid/homeServe)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: archroid.xyz
