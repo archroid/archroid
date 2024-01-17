@@ -55,7 +55,7 @@ This is the place where I opensource stuff and break things
 
 ### 📕 Latest Project:
 <!-- BLOG-POST-LIST:START -->
-- [HomeServe](https://github.com/archroid/homeServe)
+- [Archify](https://github.com/archroid/archify)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: archroid.xyz
