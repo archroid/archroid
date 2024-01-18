@@ -6,7 +6,8 @@
 
 This is the place where I opensource stuff and break things
 - I'm 19 years old
-- I'm currently a part of [LibreTube team](https://github.com/libre-tube/LibreTube) and I'm studying for college entry exam.
+- Medicine student at Kashan University of Medical Science 
+- I'm currently a part of [LibreTube team](https://github.com/libre-tube/LibreTube).
 - How to reach me: [@archroid][Telegram] or say 👋 on Email at [archroid.dev](mailto:archroid.dev@gmail.com)
 
 <!-- ### Connect with me:
