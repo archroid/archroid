@@ -36,9 +36,6 @@ This is the place where I opensource stuff and break things
 ## 📊 GitHub statistics
   
 <p align="center">
- <a href="#">
-   <img alt="archroid's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=archroid&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
- </a>
 </p>
 <br/>
 <a href="#">
