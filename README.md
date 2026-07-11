@@ -30,13 +30,6 @@ This is the place where I opensource stuff and break things
 <img align="left" alt="GitHub" width="32px" src="./assets/github.png" />
 <img align="left" alt="Terminal" width="32px" src="./assets/terminal.png" />
  -->
-<br />
-<br />
-
-
-<br/>
-<br/>
-
 <br/>
 <br/>
 
