@@ -33,13 +33,6 @@ This is the place where I opensource stuff and break things
 <br />
 <br />
 
-## 📊 GitHub statistics
-  
-<p align="center">
-</p>
-<br/>
-<br/>
-<b>Note:</b> Used languages on GitHub is not languagues most used when i'm coding.
 
 <br/>
 <br/>
