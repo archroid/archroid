@@ -38,10 +38,6 @@ This is the place where I opensource stuff and break things
 <p align="center">
 </p>
 <br/>
-<a href="#">
-  <img alt="archroid's stats" src="https://github-readme-stats.vercel.app/api?username=archroid&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
-  <a href="#">
-    <img alt="archroid's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archroid&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
 <br/>
 <b>Note:</b> Used languages on GitHub is not languagues most used when i'm coding.
 
